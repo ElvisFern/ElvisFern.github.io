@@ -26,3 +26,9 @@ Customization
 This application may be used as is or may be further developed and customized.
 You can change the application by editing the Javascript, CSS and `index.html`
 files.
+
+Sprint 2 Demo
+--------------
+
+In order to see what this Demo looks like in middle of sprint 2 development please visit ElvisFern.github.io
+This is an in progress tour of SCSU campus for new residents
